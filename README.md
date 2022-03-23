@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tobexint
 - 👀 I’m interested in ...tech, web development
-- 🌱 I’m proficient with C#... currently learning SQL 
+- 🌱 I’m proficient with C#... 
 - 💞️ I’m looking to collaborate on ... software and full stack web development
 - 📫 How to reach me ...
 
