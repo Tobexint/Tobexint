@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tobexint
--    Software engineer student at Alx and Holberton
+-    Software engineering student at Alx and Holberton
 - 👀 I’m interested in ...tech, web development
 - 🌱 I’m proficient with C#... 
 - 💞️ I’m looking to collaborate on ... software and full stack web development
