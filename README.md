@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tobexint
--    Software engineering student at Alx and Holberton
+-  Fullstack software engineer 
 - 👀 I’m interested in ...tech, web development
-- 🌱 I’m proficient with C#... 
+- 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on ... software and full stack web development
 - 📫 How to reach me email- tobexint@gmail.com
 
