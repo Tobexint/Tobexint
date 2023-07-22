@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tobexint
 -  Fullstack software engineer 
 - 👀 I’m interested in ...tech, web development
-- 🌱 I’m currently learning Django.
+- 🌱 Learning with @alx_africa
 - 💞️ I’m looking to collaborate on ... software and full stack web development
 - 📫 How to reach me email- tobexint@gmail.com
 
