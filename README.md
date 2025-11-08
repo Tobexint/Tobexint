@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tobexint
--  Fullstack software engineer 
+-  Fullstack software engineer, Data scientist, AI engineer
 - 👀 I’m interested in ...tech, web development
-- 🌱 Learning with @alx_africa
-- 💞️ I’m looking to collaborate on ... software and full stack web development
+- 🌱 Learning with @alx_africa, @worldquant_university
+- 💞️ I’m looking to collaborate on ... software and full stack web development, machine learning, automation, data science and research.
 - 📫 How to reach me email- tobexint@gmail.com
 
 <!---
